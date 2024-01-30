@@ -44,4 +44,6 @@ Vê a organização como um sistema de partes interrelacionadas que funcionam em
 
 ### 4. Contingency Theory
 
+Não existe uma "melhor forma" de gerir a organização, porque algo que funciona numa organziação pode não funcionar noutra, existem características e situações que diferem, 
+
 ### 5. The Learning Organization
