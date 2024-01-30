@@ -44,6 +44,14 @@ Vê a organização como um sistema de partes interrelacionadas que funcionam em
 
 ### 4. Contingency Theory
 
-Não existe uma "melhor forma" de gerir a organização, porque algo que funciona numa organziação pode não funcionar noutra, existem características e situações que diferem, 
+Não existe uma "melhor forma" de gerir a organização, porque algo que funciona numa organziação pode não funcionar noutra, existem características e situações que diferem. Assim, os managers têm de entender as contingências para determinar o meio mais efectivo de acordo com a situação.
 
 ### 5. The Learning Organization
+
+Comportamento baseado na capacidade de adaptação rápida e antecipada para atingir vantagem no mercado face aos competidores. É uma aprendizagem adaptativa e criativa dividida num ciclo de três fases principais:
+
+- Análise do ambiente;
+- Comparação de informação e objectivos - com consequente questionamento se as normas e objectivos são os adequados;
+- Ações correctivas;
+
+Uma organização virtual é aquela formada por dependências externas, para oferecer uma rede de valor (*value network*) e melhores soluções para os clientes.
