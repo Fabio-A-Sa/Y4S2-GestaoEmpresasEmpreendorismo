@@ -28,7 +28,15 @@ Boas condições interpessoais, de comunicação, de controlo, decision making, 
 
 ### 1. Classical Perspective
 
+Interpretado como um sistema mecânico, com divisão de trabalho para melhorar a eficiência e produtividade. Pode ser:
+
+- científica (gestão do trabalho e dos trabalhadores);
+- administrativa (gestão da estrutura da organização);
+- burocrática (organização como entidade racional, usando regras impessoais e procedimentos para tomar decisões);
+
 ### 2. Behavioral Perspective
+
+A organização é vista como uma unidade orgânica, 
 
 ### 3. Systems Theory
 
