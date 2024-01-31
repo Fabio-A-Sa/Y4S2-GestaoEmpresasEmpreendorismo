@@ -36,9 +36,11 @@ Interpretado como um sistema mecânico, com divisão de trabalho para melhorar a
 
 ### 2. Behavioral Perspective
 
-A organização é vista como uma unidade orgânica, 
+A organização é vista como uma unidade orgânica, onde os processos psicológicos influenciam o comportamento humano para dar satisfação e motivação. Ocorrem grupos sociais numa organização informal.
 
 ### 3. Systems Theory
+
+Vê a organização como um sistema de partes interrelacionadas que funcionam em conjunto para atingir o mesmo objectivo. Há feedback entre as partes de input, controlo/transformação e output, assim como interação com o ambiente externo.
 
 ### 4. Contingency Theory
 
