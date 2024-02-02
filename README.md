@@ -1,6 +1,6 @@
-# Bases de Dados Não Relacionais (BDNR) - Year 4, Semester 2 (Y4S2)
+# Gestão de Empresas e Empreendorismo (GEE) - Year 4, Semester 2 (Y4S2)
 
-This repository contains all the exercises and assessments of the UC Bases de Dados Não Relacionais, taught by [Sérgio Nunes](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=310021) at [Master in Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22862) [MEIC] at the [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/pt/web_page.Inicial) [FEUP]. <br> <br>
+This repository contains all the exercises and assessments of the UC Gestão de Empresas e Empreendorismo, taught by [José Coelho Rodrigues](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=415643) and [Manuel Matos](https://sigarra.up.pt/feup/pt/func_geral.formview?p_codigo=703963) at [Master in Informatics and Computing Engineering](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=22862) [MEIC] at the [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/pt/web_page.Inicial) [FEUP]. <br> <br>
 
 <h2 align = "center" >Final Grade: __/20</h2>
 <p align = "center" >
@@ -17,11 +17,7 @@ This repository contains all the exercises and assessments of the UC Bases de Da
 
 Notes that I take during theoretical lectures in Markdown <br>
 
-### Project
-
-In progress
-
-### Members
+### Case Studies
 
 In progress
 
