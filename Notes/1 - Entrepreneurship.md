@@ -21,11 +21,16 @@ Dividido em duas partes: teórica e prática, com base nos seguintes pontos:
 4. Costumer discovery (prática);
 5. Costumer validation (prática);
 
-#### Costumer Discovery
+#### 4 - Costumer Discovery
 
 A experimentação prática serve para resolver a **incerteza**:
 
 - Testamos o problema/necessidade;
 - Testamos a solução, tanto técnica como em produção;
 
+`Pivots` são possíveis resultados de testes de hipótese e experimentação, não definitivos pois também podem falhar. São propícios a mudanças de vários componentes do business model (iterações). 
+
+#### 5 - Costumer validation
+
+Preparação do produto em si, que pode ser só um MVP (*Minimum Viable Product*), e preparação dos canais de distribuição, para validar as suas características escaláveis e repetíveis.
 
