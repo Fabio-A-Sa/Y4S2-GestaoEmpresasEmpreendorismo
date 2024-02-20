@@ -34,3 +34,6 @@ A experimentação prática serve para resolver a **incerteza**:
 
 Preparação do produto em si, que pode ser só um MVP (*Minimum Viable Product*), e preparação dos canais de distribuição, para validar as suas características escaláveis e repetíveis.
 
+## Business Models
+
+Um **Business Models Canvas** tem 9 campos necessários para unificar a ideia, tanto a nível de recursos, como de clientes, objectivos, atividades e segmentos. 
