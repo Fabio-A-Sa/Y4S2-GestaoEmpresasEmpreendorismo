@@ -56,3 +56,6 @@ Contém a solução (focada no customer), as unique features (que diferenciam o 
 
 A solução começa muitas vezes com a apresentação do MVP (*Minimum Viable Product*).
 
+#### Channels
+
+Next class
