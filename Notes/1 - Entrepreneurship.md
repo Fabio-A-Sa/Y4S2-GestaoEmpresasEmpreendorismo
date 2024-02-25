@@ -19,8 +19,8 @@ Dividido em duas partes: teórica e prática, com base nos seguintes pontos:
 1. Idea (teórica);
 2. Business Model (teórica);
 3. Size of the opportunity (teórica/prática);
-4. Costumer discovery (prática);
-5. Costumer validation (prática);
+4. Customer discovery (prática);
+5. Customer validation (prática);
 
 #### 4 - Costumer Discovery
 
@@ -31,7 +31,7 @@ A experimentação prática serve para resolver a **incerteza**:
 
 `Pivots` são possíveis resultados de testes de hipótese e experimentação, não definitivos pois também podem falhar. São propícios a mudanças de vários componentes do business model (iterações). 
 
-#### 5 - Costumer validation
+#### 5 - Customer Validation
 
 Preparação do produto em si, que pode ser só um MVP (*Minimum Viable Product*), e preparação dos canais de distribuição, para validar as suas características escaláveis e repetíveis.
 
@@ -39,7 +39,7 @@ Preparação do produto em si, que pode ser só um MVP (*Minimum Viable Product*
 
 Um **Business Models Canvas** tem 9 campos necessários para unificar a ideia, tanto a nível de recursos, como de clientes, objectivos, atividades e segmentos. 
 
-<TODO: Img do board>
+![Business Model](../Images/Business%20Model.png)
 
 É necessário avaliar o `Product-Market Fit`, através de:
 
@@ -48,3 +48,4 @@ Um **Business Models Canvas** tem 9 campos necessários para unificar a ideia, t
 - `Customer archetype`: conhecer os clientes, o que necessitam, o que os influencia;
 - `Job-to-be-done`: 
 - `Workflow`: 
+
