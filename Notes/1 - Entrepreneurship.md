@@ -46,6 +46,9 @@ Um **Business Models Canvas** tem 9 campos necessários para unificar a ideia, t
 #### Customer Segments
 
 - `Customer archetype`: conhecer os clientes, o que necessitam, o que os influencia;
-- `Job-to-be-done`: 
-- `Workflow`: 
+- `Job-to-be-done`: o problema dos customers que vamos tentar resolver;
+- `Customer Workflow`: o contexto 
+- `Current solutions`: 
+
+#### Value Propositions:
 
