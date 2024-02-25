@@ -47,8 +47,12 @@ Um **Business Models Canvas** tem 9 campos necessários para unificar a ideia, t
 
 - `Customer archetype`: conhecer os clientes, o que necessitam, o que os influencia;
 - `Job-to-be-done`: o problema dos customers que vamos tentar resolver;
-- `Customer Workflow`: o contexto 
-- `Current solutions`: 
+- `Customer Workflow`: o contexto com o qual os problemas e as soluções incidem e são usadas;
+- `Current solutions`: os prós e contras de cada abordagem;
 
 #### Value Propositions:
+
+Contém a solução (focada no customer), as unique features (que diferenciam o produto dos concurrentes) e as key benefits (os benefícios que a solução proporciona ao problema do customer).
+
+A solução começa muitas vezes com a apresentação do MVP (*Minimum Viable Product*).
 
