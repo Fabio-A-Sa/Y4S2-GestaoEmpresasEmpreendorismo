@@ -43,19 +43,52 @@ Um **Business Models Canvas** tem 9 campos necessários para unificar a ideia, t
 
 É necessário avaliar o `Product-Market Fit`, através de:
 
-#### Customer Segments
+### 1 - Customer Segments
 
 - `Customer archetype`: conhecer os clientes, o que necessitam, o que os influencia;
 - `Job-to-be-done`: o problema dos customers que vamos tentar resolver;
 - `Customer Workflow`: o contexto com o qual os problemas e as soluções incidem e são usadas;
 - `Current solutions`: os prós e contras de cada abordagem;
 
-#### Value Propositions:
+### 2 - Value Proposition
 
 Contém a solução (focada no customer), as unique features (que diferenciam o produto dos concurrentes) e as key benefits (os benefícios que a solução proporciona ao problema do customer).
 
 A solução começa muitas vezes com a apresentação do MVP (*Minimum Viable Product*).
 
-#### Channels
+### 3 - Channels
 
-Next class
+Canais de acesso dos produtos aos clientes, que podem ser diretos ou indiretos, virtuais ou físicos. Dependem das necessidades do cliente, da influência e poder desejados, bem como da natureza do produto.
+
+### 4 - Customer Relationships
+
+Estratégias para conseguir e manter os clientes. Existem dois custos:
+
+- `Customer Acquisition Cost` (*CAC*): com publicidade, por exemplo;
+- `Customer Lifetime Value` (*LTV*): o retorno monetário, os gastos do cliente na nossa aplicação;
+
+O LTV deverá ser muito superior ao CAC (superior em três vezes ou mais), caso contrário não vale a pena. O valor do CAC também deverá ser coberto no máximo em 12 meses.
+
+### 5 - Revenue Streams
+
+Dividida em quatro sectores:
+
+- `Revenue / Pricing Model`: subscrições mensais, anuais, diretamente na compra da aplicação, entre outras;
+- `Payment flow`: 
+- `Target Market`:
+- `Sales Projections / Market Model`: é **top-down** quando, é **bottom-up** quando;
+
+### 6 - Key Partners
+
+
+
+### 7 - Key Activities
+
+
+
+### 8 - Key Resources
+
+
+
+### 9 - Cost Structure
+
