@@ -75,20 +75,29 @@ Dividida em quatro sectores:
 
 - `Revenue / Pricing Model`: subscrições mensais, anuais, diretamente na compra da aplicação, entre outras;
 - `Payment flow`: 
-- `Target Market`:
-- `Sales Projections / Market Model`: é **top-down** quando, é **bottom-up** quando;
+- `Target Market`: 
+- `Sales Projections / Market Model`: é **top-down** (define a unidade fundamental do business, o custo/tempo de vender uma unidade, e traça a curva de adopção / x pessoas y mercadoria) ou **bottom-up** (a partir do rácio que se pretende obter foca no processo de aumento do business);
 
 ### 6 - Key Partners
 
+Os partners que o negócio precisa. Isto tem custos e riscos associados. Tipos de partners:
 
+- Strategic alliances;
+- Joint ventures;
+- Coopetitions;
+- Key suppliers;
 
-### 7 - Key Activities
+### 7 - Key Activities and Resources
 
+Os recursos e atividades mais importantes para manter o negócio funcional, tanto a nível físico como intelectual ou de infraestrutura.
 
+### 8 - Cost Structure
 
-### 8 - Key Resources
+Os custos associados às atividades a desempenhar, partners e resources escolhidos. Há seis etapas principais:
 
-
-
-### 9 - Cost Structure
-
+- Operation plan;
+- Market model;
+- Staffing plan (human resources);
+- Cost projections;
+- Imcome statement;
+- Cashflow statement;
