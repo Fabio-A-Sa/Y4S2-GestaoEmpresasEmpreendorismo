@@ -28,3 +28,24 @@
 
 ## Data Driven Core Competencies
 
+- Business models criados a partir de tecnologias de ponta e mature data-processing;
+
+### Data driven site selection
+
+- Dados dos profiles de Alipay ou de third-party platforms são usados para selecionar o local da store;
+- Escolhido com base no local de maior quantidade de transações e dinheiro por transação;
+- Escolhido também com base na quantidade de estacionamento, custo de arrendamento do espaço;
+- Apesar da maioria dos locais serem em grandes centros, às vezes escolhiam locais remotos, pois os dados mostravam que era a casa executiva de 500 companhias de fortuna;
+
+### Online Traffic Guided by Physic stores
+
+- A aplicação permitiu converter o público do físico para o privado:
+    
+    - As stores físicas obrigavam a ter a aplicação para pagamento;
+    - Modelo físico e online têm o mesmo conjunto de produtos, da mesma qualidade;
+    - Tinham de usar a aplicação mesmo para order food para casa;
+    - Havia self-checkout nas lojas;
+    - Os customers podem pedir comida na loja, e podem comprar outras coisas enquanto a notificação de comida pronta não chega;
+
+### Personalized Marketing
+
