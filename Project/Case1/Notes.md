@@ -25,7 +25,6 @@ A tecnologia permitiu a coleta de grandes quantidades de dados. A top-level desi
 - the stores should offer 30-minute delivery while keeping logistics costs under control;
 
 Os `target customers` são mulheres de 20 a 45 anos (*white-collar workers*) que usem a Alipay. Dados mostram que este grupo têm famílias ao seu cuidado e preferem fresh food. A aplicação é uma excelente escolha quando não se podem deslocar à loja física.
-
 - Foram rápidos a conquistar o mercado pois a secção de seafood nas lojas físicas era muito limpa, aumentando ainda mais com a expansão dos boatos pelas redes sociais;
 - Lojas de conveniência F2 (), aberta pela primeira vez em dezembro de 2017 (ver anexo) serviram para combater o tempo dos office workers em filas de espera para o pequeno-almoço, almoço e chá da tarde. Os customers pedem na app e vão às lojas levantar e comer, sem espera adicional. Este tipo de loja tem uma área de 500m2 e servem customers localisados num raio de 500 metros;
 - Freshippo Cloud Supermarket, abril de 2018, oferecia produtos que não estavam nas lojas físicas, entregando produtos baseados nos dados recolhidos e nas necessidades dos clientes. Ofereciam o melhor valor em 10 categorias principais de produtos, as entregas noturnas, e os clientes exigiam entregas rápidas apenas quando não tinham preocupação com o preço;
