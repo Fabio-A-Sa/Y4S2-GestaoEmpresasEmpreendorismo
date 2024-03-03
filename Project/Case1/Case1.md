@@ -1,21 +1,3 @@
-# Freeshippo study case
-
-## Idea : what is freeshippo
-
-Without freeshippo custumers could only choose between supermarket and e-commerce platforms.
-Freeshippo gives the custumers some advantages:
-* fresh food cooked in store to eat on the spot
-* By scanning QR code, the user could ask the app to carry the groceries home
-* Users can place orders online (as regular e-commerce platforms)
-
-## Business model inovation
-
-* Technology - helped freeshippo to collect big data from interaction with users, product locations ...
-* Cloud computing - Built system around Ali Cloud
-* Big Data and AI - established a set of unified standards in terms of membership systems, product prices, inventory, marketing channels ...
-
-> Question: Would Freeshippo benefit with the use of 5g?
-
 ## Data-Driven Bussiness Model
 
 ### First iteration

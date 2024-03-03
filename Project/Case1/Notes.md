@@ -1,13 +1,19 @@
-# Case Study 1
+# Case Study 1 - Freshippo: Data-Driven Business Model Inovation
 
 ## Introduction
 
-- Freshippo, criada em Xangai em 2016, reune os dois canais tradicionais de compras (supermercados /  e-commerce) e algumas facilidades:
+Freshippo, criada em Xangai em 2016, reune os dois canais tradicionais de compras (supermercados / e-commerce) e algumas facilidades:
 
-    - Compras no supermercado;
-    - Possibilidade de comer a comida ali mesmo;
-    - Possibilidade de scan de um QR code para levar as compras para casa;
-    - Possibilidade de comprar online;
+- Fresh food cooked in store to eat on the spot;
+- By scanning QR code, the user could ask the app to carry the groceries home;
+- Users can place orders online (as regular e-commerce platforms);
+
+Lida com as tecnologias:
+
+- Mobile Internet;
+- Cloud Computing;
+- Big Data;
+- Artificial Inteligence;
 
 ## Data Driven Business Model
 
@@ -49,3 +55,5 @@
 
 ### Personalized Marketing
 
+- Como tudo tem de passar pela aplicação, os dados dos utilizadores podem ser usados para recomendações, marketing, festas entre crianças da mesma idade nas lojas ou enviar promoções a determinados utilizadores;
+- 
