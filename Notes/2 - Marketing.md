@@ -71,4 +71,14 @@ O mercado pode ser segmentado em quatro níveis:
 - 
 - 
 
-TODO
+## Market Targeting
+
+Após identificar os segmentos, é necessário escolher alguns para poder atuar: os targets. Pode ser:
+
+- Single segments: ;
+- Selective specialization: ;
+- Product specialization: ;
+- Market specialization: ;
+- Full market coverage: ;
+
+TODO later
