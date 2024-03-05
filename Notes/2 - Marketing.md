@@ -33,6 +33,42 @@ Tudo que é palpável é um produto, o resto é serviço. Diferença entre produ
 
 #### 3 - Promotion
 
+Comunicar para promover a companhia para potenciar clientes. Promoções, redes sociais, publicidade.
 
+#### 4 - Place
 
-#### 4 - 
+A distribuição para o cliente final. Pode ser multichannel e Omni channel.
+
+#### 5 - People
+
+O contacto pessoal é importante para garantir que os clientes são bem tratados, tendo uma boa experiência.
+
+#### 6 - Process
+
+O processo torna a gestão do marketing muito mais eficiente, expectando os momentos de contacto com os clientes e o flow que este tem.
+
+#### 7 - Physical
+
+É o estilo e o ambiente visual que providencia o impacto inicial do produto ou serviço.
+
+## Segmentation
+
+É necessário haver uma segmentação do mercado para corresponder a necessidades específicas dos clientes, que são sempre diferentes. É necessário identificar grupos de customers com preferencias semelhantes. 
+
+### Level Segmentation
+
+O mercado pode ser segmentado em quatro níveis:
+
+- Mass marketing: 
+- Segment marketing: 
+- Niche-marketing: 
+- Marketing one-to-one: 
+
+### Variable Segmentation
+
+- 
+- 
+- 
+- 
+
+TODO
