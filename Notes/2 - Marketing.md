@@ -82,3 +82,29 @@ Após identificar os segmentos, é necessário escolher alguns para poder atuar:
 - Full market coverage: ;
 
 TODO later
+
+Swatch
+
+Second watch
+
+Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe).
+
+Among (young people, style-people and funcionality), our offering (Swatch) is the brand of (innovative timepieces) that (redefine the concept of watches) because (of their bold designs, affordability, and continuous artistic collaborations, making them a statement accessory for any occasion).
+
+Omega
+
+Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe).
+
+Among (watch enthusiasts who seek unparalleled craftsmanship and innovation), our offering (OMEGA) is the brand of (exceptional timepieces that transcend boundaries in watchmaking and beyond) because of (our legacy of pioneering achievements, commitment to precision and reliability, and our enduring partnerships with iconic figures and organizations, embodying a legacy of excellence and social responsibility).
+
+representação pela NASA (accuracy), do James Bond,  
+
+points of parity:
+
+omega: preço alto, qualidade de construção, local de produção (suiça), 
+swatch: preço acessível, qualidade intermédia de construção, 
+
+points of difference:
+
+omega: precisão, escolhida pela NASA, James Bond, e pelos eventos históricos
+swatch: diversidade de design, criatividade, espírito de chamarem artistas para construirem algo diferente
