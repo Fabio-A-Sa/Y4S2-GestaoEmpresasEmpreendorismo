@@ -9,7 +9,7 @@ A gestão de marketing, segundo Kotler, é uma análise, planeamento, implementa
 - Promotion (comunicação);
 - Place (distrbuição);
 
-É necessário conhecer e compreender os clientes, para que o marketing resulte em clientes prontos a comprar o produto (serviços, eventos, lugares, pessoas, ideias, entre outros).
+É necessário conhecer e compreender os clientes, para que o marketing resulte em clientes prontos a comprar o produto (seja ele um serviços, eventos, lugares, pessoas, ideias, entre outros).
 
 Os markets são grupos de clientes e podem ser:
 
@@ -25,11 +25,11 @@ Existe uma diferenciação entre strategical e tactical marketing:
 
 #### 1 - Product
 
-Tudo que é palpável é um produto, o resto é serviço. Diferença entre produto e serviços puros.
+Tudo que é palpável é um produto, o resto é serviço. A diferença entre produto e serviços puros é que os puros são algo isolado, ao contrário dos produtos, onde oferecem benefícios e uma atmosfera adicional.
 
 #### 2 - Price
 
-É uma importante decisão que deve ser estratégica, estimada com base em custos.
+É uma importante decisão que deve ser estratégica, estimada com base em custos. Está na base de Penetration strategy.
 
 #### 3 - Promotion
 
@@ -59,17 +59,19 @@ O processo torna a gestão do marketing muito mais eficiente, expectando os mome
 
 O mercado pode ser segmentado em quatro níveis:
 
-- Mass marketing: 
-- Segment marketing: 
-- Niche-marketing: 
-- Marketing one-to-one: 
+- `Mass marketing`: desenvolve apenas um marketing mix, para um mercado global; 
+- `Segment marketing`: desenvolve soluções adaptadas para uma necessidade específica, para um segmento do mercado;
+- `Niche-marketing`: para um pequeno segmento de utilizadores de necessidades muito específicas;
+- `Marketing one-to-one`: específicas para determinados clientes, individualistas;
 
-### Variable Segmentation
+### Segmentation variables
 
-- 
-- 
-- 
-- 
+- `Geographic`;
+- `Socio-demographic`: age, gender, income, status, education;
+- `Psycographic`: lifestyle, ideals, self-expression;
+- `Behavioral`: knowledge, attitude, use and response to a product;
+
+De qualquer forma, um segmento de mercado deve ser medível, substancial, acessível, ter um diferencial e ser acionável/reacionável ao produto.
 
 ## Market Targeting
 
@@ -81,30 +83,3 @@ Após identificar os segmentos, é necessário escolher alguns para poder atuar:
 - Market specialization: ;
 - Full market coverage: ;
 
-TODO later
-
-Swatch
-
-Second watch
-
-Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe).
-
-Among (young people, style-people and funcionality), our offering (Swatch) is the brand of (innovative timepieces) that (redefine the concept of watches) because (of their bold designs, affordability, and continuous artistic collaborations, making them a statement accessory for any occasion).
-
-Omega
-
-Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe).
-
-Among (watch enthusiasts who seek unparalleled craftsmanship and innovation), our offering (OMEGA) is the brand of (exceptional timepieces that transcend boundaries in watchmaking and beyond) because of (our legacy of pioneering achievements, commitment to precision and reliability, and our enduring partnerships with iconic figures and organizations, embodying a legacy of excellence and social responsibility).
-
-representação pela NASA (accuracy), do James Bond,  
-
-points of parity:
-
-omega: preço alto, qualidade de construção, local de produção (suiça), 
-swatch: preço acessível, qualidade intermédia de construção, 
-
-points of difference:
-
-omega: precisão, escolhida pela NASA, James Bond, e pelos eventos históricos
-swatch: diversidade de design, criatividade, espírito de chamarem artistas para construirem algo diferente
