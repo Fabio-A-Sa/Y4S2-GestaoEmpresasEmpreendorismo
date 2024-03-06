@@ -73,13 +73,25 @@ O mercado pode ser segmentado em quatro níveis:
 
 De qualquer forma, um segmento de mercado deve ser medível, substancial, acessível, ter um diferencial e ser acionável/reacionável ao produto.
 
+Existe também **individual marketing**, onde serviços tradicionais proporcionam uma personalização por parte dos clientes, como por exemplo o Spotify.
+
 ## Market Targeting
 
 Após identificar os segmentos, é necessário escolher alguns para poder atuar: os targets. Pode ser:
 
-- Single segments: ;
-- Selective specialization: ;
-- Product specialization: ;
-- Market specialization: ;
-- Full market coverage: ;
+- `Single segments`: apenas um segmento;
+- `Selective specialization`: alguns segmentos, não necessariamente interligados;
+- `Product specialization`: o mesmo produto base para vários mercados;
+- `Market specialization`: vários produtos para o mesmo mercado;
+- `Full market coverage`;
 
+## Positioning
+
+É o ato de descrever a imagem da companhia e o que esta tem para oferecer. Reflete a estratégia da companhia. Existem dois pontos essenciais:
+
+- `Points of difference`: atributos que estão associados ao que o produto oferece, que não podem ser encontrados na concorrência;
+- `Points of parity`: atributos que não são necessariamente únicos, que podem ser partilhados com outras marcas, por exemplo, requisitos globais para um hotel de quatro estrelas;
+
+Existe um `Positioning statement`:
+
+> Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe). <br>
