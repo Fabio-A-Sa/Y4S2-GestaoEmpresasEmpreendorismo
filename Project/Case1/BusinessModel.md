@@ -85,8 +85,12 @@ Provides specialized tools for operations, data analytics, and customer engageme
 
 ## 8 - Key Resources
 
-Resources such as technology infrastructure, logistics systems, and human resources are critical for executing these activities effectively.
+- `Technological Infrastructure`: AliBaba Cloud Computing, Big Data, Freshippo App;
+- `Physical Stores`;
+- `Supply Chain Network`: with local farms, suppliers, and logistics partners for sourcing fresh produce, products, and efficient delivery services to stores and customers;
 
 ## 9 - Cost Structure
 
-Costs are associated with operations, marketing, technology infrastructure, and partnerships. Detailed cost projections are necessary to ensure profitability and sustainability. The cost structure includes expenses related to staffing, marketing, operations, and maintaining the technology infrastructure required to support Freshippo's operations.
+- `Technology Infrastructure Maintenance`: maintenance of its technology infrastructure, covering expenses for mobile internet, cloud computing, big data analytics, and artificial intelligence systems;
+
+- `Logistics Optimization Costs`: Significant funds are dedicated to optimizing logistics operations, encompassing transportation, warehousing, order processing, packaging, and fast delivery;
