@@ -2,75 +2,76 @@
 
 ## Introduction
 
-Freshippo, criada em Xangai em 2016, reune os dois canais tradicionais de compras (supermercados / e-commerce) e algumas facilidades:
+Freshippo, established in Shanghai in 2016, brings together the two traditional shopping channels (supermarkets/e-commerce) along with some conveniences:
 
-- Fresh food cooked in store to eat on the spot;
-- By scanning QR code, the user could ask the app to carry the groceries home;
-- Users can place orders online (as regular e-commerce platforms);
+- Fresh food cooked in-store for immediate consumption;
+- By scanning a QR code, users can request the app to deliver groceries to their home;
+- Users can place orders online (similar to regular e-commerce platforms);
 
-Lida com as tecnologias:
+It deals with the following technologies:
 
 - Mobile Internet;
 - Cloud Computing;
 - Big Data;
-- Artificial Inteligence;
+- Artificial Intelligence;
 
 ## Data Driven Business Model
 
-A tecnologia permitiu a coleta de grandes quantidades de dados. A top-level design architecture da Ali Cloud permitiu KPI específicos:
+Technology has enabled the collection of vast amounts of data. The top-level design architecture of Ali Cloud has enabled specific KPIs:
 
-- the revenue from online transactions should be greater than that from offline transactions;
-- each store should generate more than 5,000 orders per day online;
-- the Freshippo app should be able to survive independently without support from other online traffic;
-- the stores should offer 30-minute delivery while keeping logistics costs under control;
+- The revenue from online transactions should exceed that from offline transactions;
+- Each store should generate more than 5,000 orders per day online;
+- The Freshippo app should be able to operate independently without reliance on other online traffic;
+- Stores should offer 30-minute delivery while managing logistics costs effectively;
 
-Os `target customers` são mulheres de 20 a 45 anos (*white-collar workers*) que usem a Alipay. Dados mostram que este grupo têm famílias ao seu cuidado, uma vida fast-paced e preferem fresh food. A aplicação é uma excelente escolha quando não se podem deslocar à loja física.
+The `target customers` are women aged 20 to 45 (*white-collar workers*) who use Alipay. Data shows that this group typically has families to care for, leads a fast-paced life, and prefers fresh food. The application is an excellent choice when they are unable to visit physical stores.
+They were quick to conquer the market because the seafood section in physical stores was very clean and well-presented, further boosting their reputation with the spread of rumors on social media. 
 
-Foram rápidos a conquistar o mercado pois a secção de seafood nas lojas físicas era muito limpa e bem apresentada, aumentando ainda mais com a expansão dos boatos pelas redes sociais. As lojas de conveniência F2 (Fast and Fresh), aberta pela primeira vez em dezembro de 2017 serviram para combater o tempo dos office workers em filas de espera para o pequeno-almoço, almoço e chá da tarde. Os customers pedem na app e vão às lojas levantar e comer, sem espera adicional. Este tipo de loja tem uma área de 500m2 e servem customers localisados num raio de 500 metros.
+The F2 (Fast and Fresh) convenience stores, first opened in December 2017, were designed to address the time constraints of office workers waiting in lines for breakfast, lunch, and afternoon tea. Customers order through the app and then pick up and eat in the stores, without any additional wait. These stores have an area of 500m2 and serve customers located within a 500-meter radius.
 
-Freshippo Cloud Supermarket, abril de 2018, oferecia produtos que não estavam nas lojas físicas, entregando produtos baseados nos dados recolhidos e nas necessidades dos clientes. Ofereciam o melhor valor em 10 categorias principais de produtos, as entregas noturnas, e os clientes exigiam entregas rápidas apenas quando não tinham preocupação com o preço.
+Freshippo Cloud Supermarket, launched in April 2018, offered products that were not available in physical stores, delivering items based on collected data and customer needs. They provided the best value in 10 main product categories, offered overnight deliveries, and customers demanded fast deliveries only when price was not a concern.
 
-Hexiaoma é um tipo de Freshippo que acaba por não ser semelhante: oferece a 1ª entrega grátis, até 3 kms de distância, mas a entrega pode ser de até 1 hora em vez dos 30 minutos. Além disso, não oferecem seafood, nem in-site preparation foods. Clientes reclamavam do tempo de espera. O site usa big data do Ali Baba.
+Hexiaoma is a type of Freshippo that turns out to be dissimilar: it offers the first delivery free, up to 3 km away, but the delivery can take up to 1 hour instead of 30 minutes. Additionally, they do not offer seafood or in-site preparation foods. Customers complained about the wait time. The site uses big data from Alibaba.
 
-Freshippo Nanxiang Store foi uma iteração de Fevereiro de 2018 que permitiu uma automação nas entregas in-store e na própria confeção de comida:
+Freshippo Nanxiang Store was an iteration from February 2018 that allowed for automation in in-store deliveries and food preparation:
 
-- Customers choose their seats at entrance
-- Scan QR code to order dishes
-- Track for robots to deliver dishes (40 seconds average)
+- Customers choose their seats at the entrance;
+- Scan QR code to order dishes;
+- Track for robots to deliver dishes (average of 40 seconds);
 
-No entanto, apesar da tecnologia, vários clientes reclamaram da falta de carisma na comida - precisavam de contacto mais humano.
+However, despite the technology, several customers complained about the lack of charisma in the food - they needed more human interaction.
 
 ## Data Driven Core Competencies
 
-Business models criados a partir de tecnologias de ponta e mature data-processing.
+Business models created from cutting-edge technologies and mature data processing capabilities.
 
 ### Data driven site selection
 
-Dados dos profiles de Alipay ou de third-party platforms são usados para selecionar o local da store. Interessava:
+Data from Alipay profiles or third-party platforms is used to select the location of the store. They are interested in:
 
-- local de maior quantidade de transações e dinheiro por transação;
-- quantidade de estacionamento, custo de arrendamento do espaço;
-- Apesar da maioria dos locais serem em grandes centros, às vezes escolhiam locais remotos, pois os dados mostravam que foi a casa executiva de 500 companhias de fortuna;
+- Areas with the highest volume of transactions and highest transaction value;
+- Availability of parking spaces and the cost of renting the space;
+- Despite most locations being in major centers, they sometimes choose remote locations because data shows they are the homes of executives from 500 Fortune companies;
 
 ### Online Traffic Guided by Physic stores
 
-A aplicação permitiu converter o público do físico para o online:
-    
-- As stores físicas obrigavam a ter a aplicação para pagamento;
-- Modelo físico e online têm o mesmo conjunto de produtos, da mesma qualidade;
-- Tinham de usar a aplicação mesmo para order food para casa;
-- Havia self-checkout nas lojas;
-- Os customers podem pedir comida na loja, e podem comprar outras coisas enquanto a notificação de comida pronta não chega;
+The application enabled the conversion of the physical audience to the online platform:
 
-Como era tudo na aplicação, permitia que os dados dos utilizadores fossem coletados.
+- Physical stores required the use of the application for payment;
+- Both the physical and online models offer the same range of products of equal quality;
+- Users had to use the application even for ordering food for delivery.
+- Self-checkout was available in stores;
+- Customers could order food in-store and shop for other items while waiting for the notification that their food is ready;
+
+As everything was managed through the application, it allowed for the collection of user data.
 
 ### Personalized Marketing
 
-Os dados dos utilizadores podem ser usados para recomendações, marketing, festas entre crianças da mesma idade nas lojas ou enviar promoções a determinados utilizadores.
+User data can be used for recommendations, marketing purposes, organizing parties for children of the same age in the stores, or sending promotions to specific users.
 
 ### Supply Chain Management
 
-Supply Chain was managed with new technology and equipement. Supply Chain Management System (SCMS) was developed around the Alibaba Cloud Platform. Use of deep learning techniques to enhance the Supply Chain operations.
+Supply Chain was managed using new technology and equipment. A Supply Chain Management System (SCMS) was developed around the Alibaba Cloud Platform. Deep learning techniques were employed to enhance Supply Chain operations.
 
 ## Data-Driven Product Selection
 
