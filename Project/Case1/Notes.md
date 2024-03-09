@@ -111,15 +111,13 @@ The store operation system was able to assign tasks to the employees that were a
 
 ### Order Fulfillment
 
-The product picking time for each employee was controlled by the system to stay less than 3 minutes.
-Transportation for the store warehouse and final package must be done under 3 minutes each as well.
-To ensure delivery in 30 min the delivery man has 21 minutes to do the job.
+The product picking time for each employee was controlled by the system to stay less than 3 minutes. Transportation for the store warehouse and final package must be done under 3 minutes each as well. To ensure delivery in 30 min the delivery man has 21 minutes to do the job.
 
 The whole order-generation process did not take more than 10 mins, due to system balanced distribution of work and technologies like conveyor belts hanging on store ceilings.
 
 The product picking-time by each employee was controlled to stay within 3 minutes.
  
-### Logistics and distribution
+### Logistics and Distribution
 
 Based on order time and address, the system optimized routes for the delivery man, combining different orders into delivery batches. 
 This process included also information like order batch, batch category (normal / cold temperature), delivery men's familiarity with the distribution area and location at that given time.
@@ -131,8 +129,7 @@ Orders would accumulate until a certain quantity and then the best route is comp
 
 ### Amazon Go
 
-They eliminated cashier checkout ("take and go" policy)
-When you take a product from the shelf the app adds that product to a virtual shopping cart.
+They eliminated cashier checkout ("take and go" policy). When you take a product from the shelf the app adds that product to a virtual shopping cart.
 They had problems with this approach if more than 20 people were on the store putting and taking products from the shelves too fast. They solve the problem after a year and opened to the public.
 
 ### Unattended Convenience Stores and Unattended Shelves
