@@ -1,6 +1,6 @@
 # Freshippo Business Model
 
-How would you characterize in detail Freshippo’s whole business model and the dynamics described in the case among its different components? 
+How would you characterize in detail Freshippo’s whole business model and the dynamics described in the case among its different components?
 
 ## 1 - Customer Segments
 
