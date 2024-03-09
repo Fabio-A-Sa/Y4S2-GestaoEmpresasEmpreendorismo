@@ -14,27 +14,36 @@ How would you characterize in detail Freshippo’s whole business model and the 
 
 ## 2 - Value Proposition
 
-- `Solution`: Freshippo offers a comprehensive solution for purchasing fresh groceries through a combination of physical stores, online platforms, and delivery services.
+- `Solution`: purchasing fresh groceries through a combination of physical stores, online platforms, and fast delivery services.
 
-- `Unique features`: Unique features include in-store food preparation, 30-minute delivery, personalized marketing based on user data, and a wide selection of private-label brands and fresh products.
+- `Unique features`: in-store food preparation, 30-minute delivery, personalized marketing based on user data, and a wide selection of private-label brands and fresh products.
 
-- `Key benefits`: Customers benefit from convenience, quality, and a seamless shopping experience. The solution addresses the need for fresh food among busy individuals while offering unique features not found in traditional supermarkets or e-commerce platforms.
+- `Key benefits`: convenience, quality, and a seamless shopping experience. The solution addresses the need for fresh food among busy individuals while offering unique features not found in traditional supermarkets or e-commerce platforms.
 
-## 3 - Channels:
+## 3 - Channels
 
 Freshippo utilizes both physical and virtual channels to reach customers. Physical channels include brick-and-mortar stores where customers can shop in person, while virtual channels include the Freshippo app for online ordering and delivery services.
-4 - Customer Relationships:
+
+## 4 - Customer Relationships
 
 Strategies for acquiring and retaining customers include personalized marketing, efficient order fulfillment, and maintaining a user-friendly shopping experience through the app. The goal is to ensure that the Customer Acquisition Cost (CAC) is lower than the Customer Lifetime Value (LTV).
-5 - Revenue Streams:
+
+## 5 - Revenue Streams
 
 Revenue streams are derived from various sources, including subscription models, direct purchases through the app, and sales of fresh products both online and in-store. Sales projections and market models are used to estimate revenue based on the target market and pricing models.
-6 - Key Partners:
+
+## 6 - Key Partners
 
 Key partners for Freshippo include strategic alliances with suppliers, joint ventures for product development, and partnerships with delivery services. These partnerships are essential for ensuring a reliable supply chain and efficient operations.
-7 - Key Activities and Resources:
 
-Key activities include managing the supply chain, maintaining the online platform, ensuring product quality, and providing customer support. Resources such as technology infrastructure, logistics systems, and human resources are critical for executing these activities effectively.
-8 - Cost Structure:
+## 7 - Key Activities
+
+Key activities include managing the supply chain, maintaining the online platform, ensuring product quality, and providing customer support. 
+
+## 8 - Key Resources
+
+Resources such as technology infrastructure, logistics systems, and human resources are critical for executing these activities effectively.
+
+## 9 - Cost Structure
 
 Costs are associated with operations, marketing, technology infrastructure, and partnerships. Detailed cost projections are necessary to ensure profitability and sustainability. The cost structure includes expenses related to staffing, marketing, operations, and maintaining the technology infrastructure required to support Freshippo's operations.
