@@ -76,44 +76,30 @@ Supply Chain was managed with new technology and equipement. Supply Chain Manage
 
 The product selection would be based (before opening the store) on Alipay users and after it opens, would take no more than 2 months to the products fall into place.
 
-Early 2018, Freshippo would already created 300 private-label brands (due to is R&D team). This private-label products were purchased directly from domestic or overseas production bases.
-Partner with fishing rights in Alaskan waters for king crabs.
+Early 2018, Freshippo would already created 300 private-label brands (due to is R&D team). Products under the private-label brands were purchased through the "buyers system" directly to production bases. "Daily fresh" products were purchased via the supply chain that was built with local farms. For example, partner with fishing rights in Alaskan waters for king crabs.
 
-Again selected based on AliPay big data.
-After 2 months of opening a store, Freeshippo traked the sales of each SKU to see what were the products that must be stocked.
+After 2 months of opening a store, Freeshippo traked the sales of each SKU to see what were the products that must be stocked. It's 2 months because it was the conversion time of the custumers' ordering patterns.
 
-> Why 2 months? \
--> It was the "conversion" time of the custumers' ordering patterns.
-
-Freeshippo created private-label brands.
-Products under the private-label brands were purchased through the "buyers system" directly to production bases.
-"Daily fresh" products were purchased via the supply chain that was built with local farms.
-
-Products of 3rd-party brands were selected via big data analysis. To make prices more reasonable they do not charge entry fees, and so on.
+Products of 3rd-party brands were selected via big data analysis, to make prices more reasonable they do not charge entry fees, and so on.
 
 ### Warehouse Management
 
-2 levels:
-* Central Warehouse
+There is two levels of Warehouses:
+
+- Central Warehouse
     * Quality inspection
     * Product Standardization
     * Live Seafood Farming
     * Products delivered in bulk on pallets
-* Store Warehouse
+- Store Warehouse
     * Responsible to get the "daily fresh" products
     * Products delivered in small packages
 
-Warehouse management was also built on top of Alibaba systems.
-Freeshippo invented a real time pricing and inventory management, triggering promotions when, for example, the "daily fresh" products were on the shelves for almost one entire day. Also if some product was moving slowly between central / store warehous to the stores, a replanishment would be done, all according to the sales performance.
-
-2 levels of warehouses:
-- Central (quality inspection, product standardization, and live seafood farming)
-- Store
+Warehouse management was also built on top of Alibaba systems. Freeshippo invented a real time pricing and inventory management, triggering promotions when, for example, the "daily fresh" products were on the shelves for almost one entire day. Also if some product was moving slowly between central / store warehous to the stores, a replanishment would be done, all according to the sales performance.
 
 Daily fresh procusts were delivered from farms to store warehouses and the rest of the products were deliver in bulk on pallets by trucks from origin or suppliers to the central warehouse and then to the store warehouses.
 
 System would take into account products that were not selling so much and the central warehouse would be noticed, to make promotions or automatic replenishment.
-
 
 Every Product had an eletronic shelf label and a barcode and employees could identify products with inteligent devices.
 
@@ -125,7 +111,7 @@ The store operation system was able to assign tasks to the employees that were a
 
 ### Order Fulfillment
 
-The product picking time for each employee was controlled by the system to stay < 3 minutes.
+The product picking time for each employee was controlled by the system to stay less than 3 minutes.
 Transportation for the store warehouse and final package must be done under 3 minutes each as well.
 To ensure delivery in 30 min the delivery man has 21 minutes to do the job.
 
