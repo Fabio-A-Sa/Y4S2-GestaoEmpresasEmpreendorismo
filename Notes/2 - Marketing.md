@@ -161,3 +161,17 @@ CLV = Sum (i -> [0..t]) ((pt - ct) / (i + 1)^t) - AC
 > rt : probability of customer repeat buying <br>
 > t : time horizon for estimating CLV <br>
 > AC : Aquisition Cost <br>
+
+## Marketing Pricing
+
+Existem custos físicos e custos variáveis. 
+
+![Total and unit fixed costs](../Images/FixedCosts.png)
+
+![Total and unit variable costs](../Images/VariableCosts.png)
+
+Tudo isto para aferir o `Break-even point`, ou seja, o ponto que determina o número mínimo de vendas de produtos unitários de modo a conseguir lucro. Cálculo:
+
+> Break-even point = Total Fixed Costs / Unitary Variable Margin <br>
+
+Por exemplo, se tivermos custos fixos de 29000 euros e um lucro de 23,5 euros por unidade, o break-even point será de 1235 encomendas. A partir desse valor estrutura da empresa dá lucro.
