@@ -101,3 +101,33 @@ Após identificar os segmentos, é necessário escolher alguns para poder atuar:
 Existe um `Positioning statement`:
 
 > Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe). <br>
+
+## Value Proposition
+
+Estratégia de marketing que acaba por apresentar um conjunto de benefícios em forma de promessa às empresas target, assim como a sua posição para a solução pretendida. Apresentação de **benefícios** e **custos** em forma de valor. O valor pode ser:
+
+- `Funcional`: benefícios e custos diretos, como performance, durability, entre outros;
+- `Psycological`: benefícios emocionais;
+- `Monetary`: como cash-back, tudo a nível financeiro;
+- `Total customer benefit`: conjunto de benefícios;
+- `Total customer cost`: conjunto de custos;
+- `Customer value proposition`: diferença entre os benefícios que o customer tem e o custo que ele assume, o lucro no fundo;
+
+A atração dos clientes para o produto, de forma a eles experimentarem e quererem, é um passo importante para o Marketing:
+
+### Customer Acquisition Funnel
+
+1. **Awareness** - interação do customer com a oferta, utilizando comunicação para a aproximação;
+2. **Appeal** - processo de eliminação seletiva de produtos após a etapa anterior;
+3. **Ask** - os customers procuram mais informação do produto, através de external sources ou reviews;
+4. **Act** - ação após oferta, não está limitada à compra, mas sim à total experiência de utilização, atual e futura;
+
+Este funil ou esquema não é linear, e pode derivar de uma compra impulsiva. Customers podem falar das ofertas mas não necessariamente comprar.
+
+Há outros tópicos a considerar:
+
+- `Customer retention`;
+- `Customer expectations`;
+- `Customer satisfaction`;
+- `Customer loyalty`: conseguido através de interactions, loyalty programs (cupões do continente) ou brand communities (clubes de futebol). Mesmo que a marca mude alguma coisa, dificilmente os clientes mudam para a concorrência;
+
