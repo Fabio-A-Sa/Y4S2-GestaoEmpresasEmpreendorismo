@@ -131,3 +131,33 @@ Há outros tópicos a considerar:
 - `Customer satisfaction`;
 - `Customer loyalty`: conseguido através de interactions, loyalty programs (cupões do continente) ou brand communities (clubes de futebol). Mesmo que a marca mude alguma coisa, dificilmente os clientes mudam para a concorrência;
 
+## CRM - Customer Relation Management
+
+Processo de gestão de informação sobre os customers em diferentes pontos de entrada. O objectivo é criar e entregar um maior valor para os target customers, com base na informação que eles transmitem. Há três tipos de CRM:
+
+#### 1 - Strategic CRM
+
+Onde o cliente é sempre central, desenvolvendo uma cultura de escuta dos customers, para entregar mais um value propositions. A informação do customer é partilhada entre departamentos.
+
+#### 2 - Operational CRM
+
+Automação e integração de processos para os customers, como dar ferramentas e informação, como saldos, e customer services. Tem relação com o software, que são melhorados para uma melhor experiência e performace com base nos utilizadores.
+
+#### 3 - Analytical CRM
+
+Processo de captura dinâmica de dados dos utilizadores, para melhorar o valor dado aos targets.
+
+### Customer Lifetime Value (CLV)
+
+O objectivo do CRM é aumentar o Customer Lifetime Value, ou seja, a equivalência monetária que o customer dará à companhia durante o seu tempo útil na empresa. 
+
+#### Calculation
+
+CLV = Sum (i -> [0..t]) ((pt - ct) / (i + 1)^t) - AC
+
+> pt : preço pago pelo customer <br>
+> ct : cost de servir o customer <br>
+> i : discout rate <br>
+> rt : probability of customer repeat buying <br>
+> t : time horizon for estimating CLV <br>
+> AC : Aquisition Cost <br>
