@@ -53,6 +53,12 @@ O processo torna a gestão do marketing muito mais eficiente, expectando os mome
 
 ## Segmentation
 
+O primeiro passo do processo `STP`:
+
+- Segmentation;
+- Target;
+- Posicionamento;
+
 É necessário haver uma segmentação do mercado para corresponder a necessidades específicas dos clientes, que são sempre diferentes. É necessário identificar grupos de customers com preferencias semelhantes. 
 
 ### Level Segmentation
