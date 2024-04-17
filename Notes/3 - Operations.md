@@ -17,8 +17,15 @@ Há uma clara diferença entre operations management e operations strategy, com 
 
 A organização é considerada aqui como um conjunto de assets reais de três tipos:
 
-- Tangíveis
-- Intangíveis
-- Humanos
+- Tangíveis;
+- Intangíveis;
+- Humanos;
 
-Estes recursos também podem ser dividisos em três
+Estes recursos também podem ser divididos em quatro categorias:
+
+- `Sizing`: em quantos recursos vamos investir;
+- `Timing`: devemos aumentar ou diminuir os recursos ao longo do tempo;
+- `Type`: quais os tipos de recursos melhores;
+- `Location`: onde estão os melhores recursos;
+
+## Process View
