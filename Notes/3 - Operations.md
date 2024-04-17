@@ -29,3 +29,13 @@ Estes recursos também podem ser divididos em quatro categorias:
 - `Location`: onde estão os melhores recursos;
 
 ## Process View
+
+O principal propósito do recurso é trabalhar para gerar valor. O processo pode ser estruturado com inputs e outputs, com tarefas bem definidas e trabalhadas, assim como tarefas agregadas.
+
+Aqui os procesos podem ser agrupados em quatro categorias:
+
+- `Supply`: 
+- `Technology`:
+- `Demand`:
+- `Innovation`:
+
