@@ -38,4 +38,3 @@ Aqui os processos podem ser agrupados em quatro categorias:
 - `Technology`: a tecnologia pode ser aliada a um delay de fábrica, permitindo criar um delivery system com curtos prazos;
 - `Demand`: deve ser um curto ciclo, mas tendo sempre availability;
 - `Innovation`: novos produtos, dependendo da zona, da estação ou do que está na moda;
-
