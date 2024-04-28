@@ -1,12 +1,12 @@
 # Financial Management
 
-O objectivo de um gestor financeiro é maximizar o seu valor e garantir que temos robustez financeira, ou seja, existência de dinheiro para as operações. Podemos agrupá-las em cinco funções principais:
+O objectivo de um gestor financeiro é maximizar o valor da organização, e garantir que temo robustez financeira, ou seja, existência de dinheiro para as operações. Podemos agrupá-las em cinco funções principais:
 
-- TODO
-- ...
-- 
-- 
-- Distribuição dos fundos
+- Encontrar fundos de investidores;
+- Investir os fundos nas operações da organização;
+- Gerir os fundos das operações da organização;
+- Reinvestir os fundos da organização;
+- Distribuição dos fundos;
 
 Isto é importante para os managers, investidores, credores, para o próprio estado, os customers e suppliers, e também para os workers.
 
