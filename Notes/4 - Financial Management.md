@@ -10,9 +10,21 @@ O objectivo de um gestor financeiro é maximizar o valor da organização, e gar
 
 Isto é importante para os managers, investidores, credores, para o próprio estado, os customers e suppliers, e também para os workers.
 
-TODO
+## Accounting
 
----
+São as anotações factuais de questões financeiras de uma organização ou empresa. Suporta, por isso, a gestão financeira. Princípios do accounting:
+
+- Relevance;
+- Materiality;
+- Reliability;
+- Understandability;
+- Comparability;
+
+Através do SNC/ANS (*Accounting Normalization System*) é possível determinar:
+
+- `Balance Sheet` - para dar a conhecer os recursos;
+- `Income Statement` - para conhecer a performance da organização;
+- `Cash Flow Statement` - para conhecer a forma como o dinheiro está a ser gerido;
 
 ## Balance Sheet
 
