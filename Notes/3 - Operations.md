@@ -32,10 +32,10 @@ Estes recursos também podem ser divididos em quatro categorias:
 
 O principal propósito do recurso é trabalhar para gerar valor. O processo pode ser estruturado com inputs e outputs, com tarefas bem definidas e trabalhadas, assim como tarefas agregadas.
 
-Aqui os procesos podem ser agrupados em quatro categorias:
+Aqui os processos podem ser agrupados em quatro categorias:
 
-- `Supply`: 
-- `Technology`:
-- `Demand`:
-- `Innovation`:
+- `Supply`: como são geridos os suprimenros, a nível de local, pois a proximidade favorece os serviços;
+- `Technology`: a tecnologia pode ser aliada a um delay de fábrica, permitindo criar um delivery system com curtos prazos;
+- `Demand`: deve ser um curto ciclo, mas tendo sempre availability;
+- `Innovation`: novos produtos, dependendo da zona, da estação ou do que está na moda;
 
