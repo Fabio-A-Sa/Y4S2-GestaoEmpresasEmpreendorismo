@@ -26,7 +26,7 @@ Através do SNC/ANS (*Accounting Normalization System*) é possível determinar:
 - `Income Statement` - para conhecer a performance da organização;
 - `Cash Flow Statement` - para conhecer a forma como o dinheiro está a ser gerido;
 
-## Balance Sheet
+### Balance Sheet
 
 Conjunto de bens e direitos (ativos) e obrigações (passivos) expressados em Euros. É estático no tempo, ou seja, não representa evolução mas um snapshot do estado atual da empresa. Contém:
 
@@ -35,4 +35,22 @@ Conjunto de bens e direitos (ativos) e obrigações (passivos) expressados em Eu
 - `Equity`, capital próprio, o que sobra quando subtraímos o lucro às despesas;
 
 > Equity = Assets - Liabilities, "o que sobra" <br>
+
+Além disso, os assets podem ser:
+
+- `Current`: quando são voláteis, como stores;
+- `Non-current`: quando são propriedade, equipamento;
+
+### Incoming Statement
+
+- By Nature: operating, financial, current;
+- By Function: sales, distribution, administration;
+
+Além disso, também temos revenues (receitas) e gains (rendimentos). 
+
+### Cash Flow
+
+Medido através de recebimentos e pagamentos.
+
+## Financial Analysis
 
