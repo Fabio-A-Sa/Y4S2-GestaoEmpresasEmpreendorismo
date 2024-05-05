@@ -30,9 +30,9 @@ Através do SNC/ANS (*Accounting Normalization System*) é possível determinar:
 
 Conjunto de bens e direitos (ativos) e obrigações (passivos) expressados em Euros. É estático no tempo, ou seja, não representa evolução mas um snapshot do estado atual da empresa. Contém:
 
-- Assets, bens e direitos, ativos, como equipamentos, stocks, lucros e afins. Tudo aquilo que a empresa tem;
-- Liabilities, obrigações, passivos, 
-- Equity, capital próprio, 
+- `Assets`, bens e direitos, ativos, como equipamentos, stocks, lucros e afins. Tudo aquilo que a empresa tem;
+- `Liabilities`, obrigações, passivos, como salários ao pessoal;
+- `Equity`, capital próprio, o que sobra quando subtraímos o lucro às despesas;
 
-Assets = Equity + Liabilities
+> Equity = Assets - Liabilities, "o que sobra" <br>
 
