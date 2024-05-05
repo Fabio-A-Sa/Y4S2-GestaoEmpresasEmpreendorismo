@@ -54,3 +54,6 @@ Medido através de recebimentos e pagamentos.
 
 ## Financial Analysis
 
+Para entender a organização em termos do contexto industrial (trends, rate de consumo...), sistematizando a informação (economica e financeiramente).
+
+Há análise de retorno, liquidity, financial stability, leverage.
