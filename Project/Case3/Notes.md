@@ -24,7 +24,28 @@ Determinar o(s) parametros que mais cresceram (ou seja, que mais contribuiram pa
 ### Income Statement
 
 A document that shows the results (profits or losses) in a certain financial period, for assessing the economic performance in the period. It identifies the revenues and expenses incurred during a given period.
-Nature of the expenses and revenues: operating, financial and current.
 
-### Cash Flows
+Explorar:
 
+Revenues: ver onde eles ganham mais rendimentos
+
+Expenses: ver onde eles gastam mais
+
+E calcular, para cada ano, o que sobra (Revenues - Expenses), gráfico da evolução das variáveis ao longo do tempo. Depois disso, nem tudo é receita, aprofundar de acordo com o significado das variáveis. Se eles estão a diminuir a receita total (que estão), mas a colocar o dinheiro para impulsionar a empresa, é bom sinal.
+
+### Cash-Flow Statement
+
+Fluxos de caixa. Cash inflows and outflows of the company. Demonstrates the organization's ability to generate cash.
+
+– Receipts (recebimentos): entry of monetary values for the organization.
+– Payments (pagamentos): outflow of monetary values from the organization.
+
+Explorar o Cash flow de acordo com os três tópicos:
+
+- Cash from Operating Activities
+- Cash from Investing Activities
+- Cash from Financing Activities
+
+Fazer um gráfico com a evolução (vai ser mais complicado, há um que está sempre negativo, e outro que começa negativo e passa a positivo -> bom sinal).
+
+No final, somar tudo e encontrar uma justificação plausível.
