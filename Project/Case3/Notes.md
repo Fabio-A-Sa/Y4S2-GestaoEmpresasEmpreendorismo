@@ -10,6 +10,8 @@ By looking at the financial statements for the past five years and analyzing the
 
 It represents the organization’s property both in composition and in value. Assets = Equity + Liabilities, as shown in the balance sheet. By plotting the equity and liabilities graph over the past few years, it is concluded that, overall, there has been an increase in all sectors.
 
+Liabilities are on a constant rise, whereas Equity has periods of decline, which is not ideal for the company.
+
 However, for the first time in a decade, Tata Motors registered a negative growth in FY 2017, as evidenced by the analysis of the graph. This drastic decline occurred after changes in the market, with the implementation of Bharat Stage VI, the new automobile emission standard.
 
 The company's plan involved structural cost reductions, sales enhancement, zero tolerance to delay in product launches, optimizing the supply base, and rapid ramp-up of capacity. This can be seen in the transition from 2017 to 2018, where we highlight three main points from the balance sheet:
@@ -22,13 +24,7 @@ The company's plan involved structural cost reductions, sales enhancement, zero 
 
 A document that shows the results (profits or losses) in a certain financial period, for assessing the economic performance in the period. It identifies the revenues and expenses incurred during a given period.
 
-Explorar:
-
-Revenues: ver onde eles ganham mais rendimentos
-
-Expenses: ver onde eles gastam mais
-
-E calcular, para cada ano, o que sobra (Revenues - Expenses), gráfico da evolução das variáveis ao longo do tempo. Depois disso, nem tudo é receita, aprofundar de acordo com o significado das variáveis. Se eles estão a diminuir a receita total (que estão), mas a colocar o dinheiro para impulsionar a empresa, é bom sinal.
+"After the decline in 2017, let's highlight the years 2015 (the highest positive balance in recent years), 2017 (a significant decrease due to the new market reality), and 2018 (a 17% increase from the previous year due to the new internal measures)."
 
 ### Cash-Flow Statement
 
