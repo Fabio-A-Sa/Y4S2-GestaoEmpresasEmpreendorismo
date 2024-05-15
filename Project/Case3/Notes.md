@@ -1,24 +1,22 @@
 ## Question 3
 
-By looking to the `financial statements` for the past `five years` and analysing their structure and evolution, evaluate the general trends in Tata Motors’ financial performance. 
-
-Financial Statements:
+By looking at the financial statements for the past five years and analyzing their structure and evolution, evaluate the general trends in Tata Motors’ financial performance. The financial statements can be divided into:
 
 – Balance sheet;
 – Income statement;
-– Statement of cash-flows;
+– Statement of cash flows;
 
-### Balance Sheet
+### 1 - Balance Sheet
 
-It represents the organization’s property both in composition and in value.
+It represents the organization’s property both in composition and in value. Assets = Equity + Liabilities, as shown in the balance sheet. By plotting the equity and liabilities graph over the past few years, it is concluded that, overall, there has been an increase in all sectors.
 
-Com Assets = Equity + Liabilities
+However, for the first time in a decade, Tata Motors registered a negative growth in FY 2017, as evidenced by the analysis of the graph. This drastic decline occurred after changes in the market, with the implementation of Bharat Stage VI, the new automobile emission standard.
 
-Colocar um gráfico com a evolução da Equity e Liabilities ao longo dos anos (2012 até 2018)
+The company's plan involved structural cost reductions, sales enhancement, zero tolerance to delay in product launches, optimizing the supply base, and rapid ramp-up of capacity. This can be seen in the transition from 2017 to 2018, where we highlight three main points from the balance sheet:
 
-Pegar e esmiuçar alguns parametros do EX9 / Common Size Balance Sheet, explicar o porque de estar a crescer. Talvez referir alguns pormenores interessantes que levaram à asceção de X porcento (referir e calcular valor!)
-
-Determinar o(s) parametros que mais cresceram (ou seja, que mais contribuiram para a subida), e assim justificar alguma coisa mais.
+- Drastic decrease in short-term investments: part of the proposed cost reduction;
+- Property/Plant/Equipment: proposed zero tolerance to delay in product launches; having more infrastructure helps;
+- Intangibles (gross): also increased significantly;
 
 ### Income Statement
 
