@@ -8,7 +8,6 @@ Financial Statements:
 – Income statement;
 – Statement of cash-flows;
 
-
 ### Balance Sheet
 
 It represents the organization’s property both in composition and in value.
