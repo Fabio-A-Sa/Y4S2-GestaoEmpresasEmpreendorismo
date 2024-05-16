@@ -24,21 +24,25 @@ The company's plan involved structural cost reductions, sales enhancement, zero 
 
 A document that shows the results (profits or losses) in a certain financial period, for assessing the economic performance in the period. It identifies the revenues and expenses incurred during a given period.
 
-"After the decline in 2017, let's highlight the years 2015 (the highest positive balance in recent years), 2017 (a significant decrease due to the new market reality), and 2018 (a 17% increase from the previous year due to the new internal measures)."
+After the decline in 2017, let's highlight the years 2015 (the highest positive balance in recent years), 2017 (a significant decrease due to the new market reality), and 2018 (a 17% increase from the previous year due to the new internal measures).
 
 ### Cash-Flow Statement
 
-Fluxos de caixa. Cash inflows and outflows of the company. Demonstrates the organization's ability to generate cash.
+Cash inflows and outflows of the company demonstrate the organization's ability to generate cash.
 
-– Receipts (recebimentos): entry of monetary values for the organization.
-– Payments (pagamentos): outflow of monetary values from the organization.
+– Receipts: entry of monetary values for the organization;
+– Payments: outflow of monetary values from the organization;
 
-Explorar o Cash flow de acordo com os três tópicos:
+We explore the evolution of cash flows in three scenarios:
 
-- Cash from Operating Activities
-- Cash from Investing Activities
-- Cash from Financing Activities
+- Cash from Operating Activities;
+- Cash from Investing Activities;
+- Cash from Financing Activities;
 
-Fazer um gráfico com a evolução (vai ser mais complicado, há um que está sempre negativo, e outro que começa negativo e passa a positivo -> bom sinal).
+Cash from Operating Activities reached values as low as those observed in 2013, revealing the crisis the company faced starting in 2016.
 
-No final, somar tudo e encontrar uma justificação plausível.
+Cash from Financing Activities fluctuates significantly over the years due to the dynamic market in this area and the successive implementation of laws requiring internal restructuring.
+
+Cash from Investing Activities showed a significant drop from 2017 to 2018. This decrease aligns with the reduction in short-term investments as part of the proposed cost reduction.
+
+In 2018, there was a 34% increase in the global cash flow compared to the same period in 2017.
