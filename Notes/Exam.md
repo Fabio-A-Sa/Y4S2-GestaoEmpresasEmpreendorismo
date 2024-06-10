@@ -2,8 +2,8 @@
 
 ## Topics
 
-- [] - Position statement (apresentação da frase estruturada, points of parity and points of difference)
-- [] - Characterize Business model canvas (Value proposition; customer segments; customer relationships; channels; revenue streams; key partners; key activities; key resources; costs)
+- [X] - Position statement (apresentação da frase estruturada, points of parity and points of difference)
+- [X] - Characterize Business model canvas (Value proposition; customer segments; customer relationships; channels; revenue streams; key partners; key activities; key resources; costs)
 - [] - Ratios, o seu significado, cálculo e justificação
 - [] - PESTEL analysis
 - [] - Role of the analysis of macro environment 
@@ -13,18 +13,22 @@
 - [] - Make the accounting entries;
 - [] - Estratégias de negócio genéricas de Porter;
 - [] - Calculando o ponto crítico para cada alternativa;
-- [] - Caracterização da base de recursos, capacidades e competências centrais;
 - [] - Análise SWOT (strengths, fraquezas, ameaças, oportunidades para a empresa, oportunidades para o mercado)
 - [X] - Capacidades de um gestor: humanas, conceptuais e técnicas;
 - [] - Competências centrais de uma empresa (valor, difícil de imitar, únicas diferenciadoras);
-- [] - Os 4Ps da empresa (produto, preço, distribuição, promoção);
-- [] - Estrutura organizacional funcional e outras;
+- [X] - Os 7Ps da empresa;
 
 ## Notes
 
-- Capacidades de um gestor: `conceptuais` (high level, ambiente externo e interno), `humanas` (medium level, habilidade em trabalho de equipa e interações) e `técnicas` (low level, conhecimento técnico e instrumentos na área específica).
+### Capacidades de um gestor
 
-- Market segmentation (geographical, socio-demographic, psychographic and behavioral);
+- `conceptuais` - (high level, ambiente externo e interno)
+- `humanas` - (medium level, habilidade em trabalho de equipa e interações)
+- `técnicas` - (low level, conhecimento técnico e instrumentos na área específica)
+
+### Market segmentation 
+
+geographical, socio-demographic, psychographic and behavioral);
 
 ### Business Model Canvas
 
@@ -38,3 +42,15 @@
 - Key Resources - 
 - Cost structure - 
 
+### Market Mix (7Ps)
+
+Product, Price, Promotion, Place, People, Process, Physical
+
+### Positioning
+
+Among (target market), our offering [Brand name] is the brand of (frame of reference) that (point of difference) because (reason to believe).
+
+- Points of difference
+- Points of parity
+
+### 
