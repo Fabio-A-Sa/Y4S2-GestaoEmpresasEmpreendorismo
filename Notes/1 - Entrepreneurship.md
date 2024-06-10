@@ -22,7 +22,7 @@ Dividido em duas partes: teórica e prática, com base nos seguintes pontos:
 4. Customer discovery (prática);
 5. Customer validation (prática);
 
-#### 4 - Costumer Discovery
+#### 4 - Customer Discovery
 
 A experimentação prática serve para resolver a **incerteza**:
 
